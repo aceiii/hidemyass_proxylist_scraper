@@ -1,4 +1,8 @@
-
+/*
+ * Author: Borin Ouch
+ * Copyright: (c) 2016 Borin Ouch
+ * License: MIT
+ */
 
 var url = "http://proxylist.hidemyass.com/2";
 
@@ -29,3 +33,4 @@ page.open(url, function(status) {
 
     phantom.exit();
 });
+
