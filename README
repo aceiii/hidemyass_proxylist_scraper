@@ -1,0 +1,10 @@
+
+
+HIDEMYASS PROXYLIST SCRAPER
+
+Requires phantomjs to run.
+Run with the following command:
+
+phantomjs main.js
+
+
